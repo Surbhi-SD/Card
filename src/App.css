@@ -1,0 +1,58 @@
+.card {
+  background-color: #fafafa;
+  margin: 50px auto;
+  max-width: 480px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 30px #BDBDBD;
+  height: 348px;
+}
+
+.content{
+  padding-left: 20px;
+}
+
+.child{
+  display: inline-block;
+}
+
+.top{
+  margin-left: 30px;
+  padding-top: 20px;
+  line-height: 0.5;
+  width: 120px;
+}
+
+.firstBox{
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+
+.box{
+  float: right;
+  margin-left: 120px;
+}
+
+.icon{
+  width: 35px;
+  height: 35px;
+  float: left;
+  padding-left: 50px;
+}
+
+.icon1{
+  width: 35px;
+  height: 35px;
+  float: right;
+  padding-right: 50px;
+}
+
+.icon2{
+  width: 35px;
+  height: 35px;
+  margin-left: 220px;
+}
+
+.firstBox1{
+  margin-left: auto;
+}
